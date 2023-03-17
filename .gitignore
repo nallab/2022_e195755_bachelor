@@ -1,0 +1,15 @@
+output
+lightning_logs
+venv
+.venv
+__pycache__/
+.idea
+dev
+model
+dataset
+.env
+result_checker.html
+gpt_train_dataset.txt
+gpt_val_dataset.txt
+result_on_remote
+exp/tools/conf.py

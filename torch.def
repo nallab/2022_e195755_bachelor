@@ -1,0 +1,2 @@
+BootStrap: docker
+From: huggingface/transformers-pytorch-gpu
